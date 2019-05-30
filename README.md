@@ -11,5 +11,5 @@ For example: if a projects’s goal is $5000. Even if it gets funded till $4999,
 
 The goal of this project is to use data from previous projects to build a classifier to predict whether a future project will be successfully funded.
 
-I've included a jupyter notebook for EDA, and model selection along with "run" and "model" scripts.
-THe run.py can be used to download the data and train the model, which ouputs a pickle file. There is also a small test set to predict on.
+I've included a jupyter notebook for EDA, and model selection along with run.py and model.py scripts.
+The run.py can be used to download the data and train the model, which ouputs a pickle file. There is also a small test set to predict on.
